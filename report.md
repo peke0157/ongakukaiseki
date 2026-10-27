@@ -202,5 +202,5 @@ ZennやQiitaといった技術記事を読み込み知識を蓄え、検証を�
 ## 今後の展望
 今後は収録データ量をもっと増やすことで精度にどのような変化が表れるのか検証する。
 ## 参考文献
-https://github.com/karolpiczak/ESC-50
-https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+- https://github.com/karolpiczak/ESC-50
+- https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
